@@ -1,6 +1,6 @@
 # SuperBlood
 
-Projeto desenvolvido como Trabalho de Conclusão de Curso II (TCC).
+Projeto desenvolvido como Trabalho de Conclusão de Curso II (TCC) que é feito individualmente.
 
 Tecnlogias utilizadas: Flutter, Firebase Authentication e Cloud Firestone, API Google Maps
 
